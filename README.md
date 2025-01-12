@@ -1,15 +1,57 @@
-Hello! 🙋‍♂️
+# 👋 Hello, I'm Damian Lewandowski!  
 
-My name is Damian Lewandowski, and I work as an operator in a company that produces animal feed. 
-In my free time, I am passionate about learning programming. My current job has helped me develop many valuable skills necessary for a programmer, such as responsibility, patience, teamwork, attention to detail, and precision in tasks.  🏭
+## 🏭 About Me  
+I am an **operator in a company producing animal feed**, but I am also passionate about **programming**. My current job has taught me valuable skills that are essential in programming, such as:  
+- ✔ Responsibility  
+- ✔ Patience  
+- ✔ Teamwork  
+- ✔ Attention to detail  
+- ✔ Precision  
 
-I am a happy husband and a proud father of a wonderful son, and soon our family will grow with another child on the way. This motivates me even more to advance my career and achieve my goal of becoming a programmer. 👨‍👩‍👦‍👦
+I am also a **happy husband** and a **proud father** to a wonderful son, with another child on the way! My growing family motivates me even more to advance my career and achieve my goal of becoming a programmer. 👨‍👩‍👦‍👦  
 
-So far, I have mastered technologies such as:                          
-HTML, CSS, Bootstrap, JavaScript, REST API, React, MySQL, Git, and GitHub. 💻
+---
 
-I am also familiar with the basics of Linux, PHP, Postman, MongoDB, and Sass. I plan to expand my skills by learning TypeScript, Vue, Angular, and further developing my backend knowledge. 📖📗📘
+## 💻 My Skills  
+### 🌐 Frontend  
+- **HTML**, **CSS**, **Bootstrap**  
+- **JavaScript**  
+- **React**  
 
-Although I know some English, my goal is professional growth and transitioning into a programming role. I am ready to take on a junior position, fully determined to continue learning and expanding my knowledge in the IT field. 📈🔝
+### 🔗 APIs  
+- **REST API**  
+- **Postman**  
 
+### 🗄️ Backend  
+- **MySQL**  
+- Basics of **PHP**  
+- Basics of **MongoDB**  
 
+### 🛠 Tools  
+- **Git**, **GitHub**  
+- Basics of **Linux**  
+- **Sass**  
+
+---
+
+## 🌱 My Learning Goals  
+I continuously strive to expand my skill set. I am currently focused on:  
+- Learning **TypeScript**  
+- Diving into **Vue** and **Angular**  
+- Improving my backend development knowledge  
+
+---
+
+## 📈 My Mission  
+I am determined to grow professionally and transition into a programming career. I am actively seeking **junior developer positions**, and I am ready to:  
+- **Learn** and adapt to new challenges  
+- **Collaborate** with teams to deliver great results  
+- **Contribute** to meaningful projects  
+
+---
+
+## 📫 Contact Me  
+- **Email**: [d.lewandowski94@onet.pl](mailto:d.lewandowski94@onet.pl)  
+- **Facebook**: [Facebook](https://www.facebook.com/damian.lewandowski.568/)  
+
+Feel free to explore my repositories and connect with me! 🚀
